@@ -1,0 +1,20 @@
+{
+  "record.tears": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "chickentears:records/tears",
+        "stream": true
+      }
+    ]
+  },
+  "record.lava_chicken": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "chickentears:records/lava_chicken",
+        "stream": true
+      }
+    ]
+  }
+}

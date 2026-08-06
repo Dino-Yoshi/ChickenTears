@@ -1,0 +1,40 @@
+{
+  "sourceVersion": {
+    "edition": "Minecraft Java Edition",
+    "id": "1.21.7",
+    "releaseTime": "2025-06-30T09:32:16+00:00",
+    "versionManifestUrl": "https://piston-meta.mojang.com/mc/game/version_manifest_v2.json",
+    "versionManifestSha1": "ea4619772b0ce39dd9e22d793b196ae178e5465a",
+    "clientJarUrl": "https://piston-data.mojang.com/v1/objects/a2db1ea98c37b2d00c83f6867fb8bb581a593e07/client.jar",
+    "clientJarSha1": "a2db1ea98c37b2d00c83f6867fb8bb581a593e07",
+    "assetIndexId": "26",
+    "assetIndexUrl": "https://piston-meta.mojang.com/v1/packages/4a71338c390c9c07843144cec3e98a39f268f8b4/26.json",
+    "assetIndexSha1": "4a71338c390c9c07843144cec3e98a39f268f8b4"
+  },
+  "assets": [
+    {
+      "sourceLogicalPath": "assets/minecraft/textures/item/music_disc_tears.png",
+      "destinationPath": "src/main/resources/assets/chickentears/textures/items/music_disc_tears.png",
+      "launcherSha1": null,
+      "sha256": "4c5260602df183509f2d019d184dbba18795dfc2193efaaf861d5bc8dfe27ce3"
+    },
+    {
+      "sourceLogicalPath": "assets/minecraft/textures/item/music_disc_lava_chicken.png",
+      "destinationPath": "src/main/resources/assets/chickentears/textures/items/music_disc_lava_chicken.png",
+      "launcherSha1": null,
+      "sha256": "d2c765a3392ae57b6b73657c8c3c5f09178a68dfbccfdf00a6f2481c1ea760bd"
+    },
+    {
+      "sourceLogicalPath": "minecraft/sounds/records/tears.ogg",
+      "destinationPath": "src/main/resources/assets/chickentears/sounds/records/tears.ogg",
+      "launcherSha1": "fcfacc37f008476785db7bd0b95d1e00836697c0",
+      "sha256": "98af0f3fa5ef204bd1c547ca39c64dbbc25c335ad2d4b1877f7c8bcf31fad468"
+    },
+    {
+      "sourceLogicalPath": "minecraft/sounds/records/lava_chicken.ogg",
+      "destinationPath": "src/main/resources/assets/chickentears/sounds/records/lava_chicken.ogg",
+      "launcherSha1": "3fad13f1e9f4fa6eedcab98ca691c6c112087b07",
+      "sha256": "c63bdb9a66fa4f0d443d33806dd8188f78127adcbe9b6607d12f382eacd366c7"
+    }
+  ]
+}

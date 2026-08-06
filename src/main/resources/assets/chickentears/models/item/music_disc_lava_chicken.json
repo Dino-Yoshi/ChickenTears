@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "chickentears:items/music_disc_lava_chicken"
+  }
+}
