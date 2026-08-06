@@ -16,6 +16,7 @@ out
 # gradle
 build
 .gradle
+.gradle-user-home/
 
 # other
 eclipse
@@ -28,3 +29,4 @@ forge*changelog.txt
 # this repo at /home/zero/Documents/agent-pipeline/)
 .agent-pipeline/
 Makefile.orchestrator
+/AGENTS.md
