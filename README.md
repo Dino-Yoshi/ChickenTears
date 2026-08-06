@@ -5,7 +5,7 @@ A small standalone Minecraft Forge 1.12.2 mod that backports exactly two modern 
 - **Tears** is obtained by killing a ghast with that ghast's own fireball after the fireball has been deflected by a player.
 - **Lava Chicken** is obtained by killing a chicken jockey whose rider is a baby zombie or baby zombie villager.
 
-Both discs use the exact item sprites and Ogg audio from modern Minecraft (Java 1.21.7), and play through the normal 1.12.2 music-disc/jukebox system. See `.agent-pipeline/tasks/tears-lava-chicken-music-disc-backport/01_requirements_packet.md` for the full requirements and design.
+Both discs use the exact item sprites and Ogg audio from modern Minecraft (Java 1.21.7), and play through the normal 1.12.2 music-disc/jukebox system.
 
 ## Building
 
